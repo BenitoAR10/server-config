@@ -3,7 +3,7 @@ currency:
   key: YEraXsSahmYnVTklREwJ6uvCDwm3VpVS
 
 server:
-  port: 8080
+  port: 8088
 
 spring:
   datasource:
