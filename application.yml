@@ -3,7 +3,7 @@ currency:
   key: ${API_KEY:YEraXsSahmYnVTklREwJ6uvCDwm3VpVS}
 
 server:
-  port: 8080
+  port: 9090
 
 spring:
   datasource:
